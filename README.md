@@ -1,8 +1,8 @@
-# Back-end: Sistema de Gestión
+# Sistema de Vacaciones
 
 ## Descripción
 
-Esta aplicación permite la Administración de Gestión
+Esta aplicación permite la Administración de Vacaciones
 
 **Tecnologías:**
 
